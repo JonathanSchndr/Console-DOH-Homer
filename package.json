@@ -1,15 +1,15 @@
 {
-"name": "console-dot-frog",
+"name": "console-dot-doh",
 "version": "1.0.0",
-"description": "Log with a frog, its as simple as that!",
-"main": "console.frog.js",
+"description": "Log with a homer, its as simple as that!",
+"main": "console.doh.js",
 "repository": {
 "type": "git",
-"url": "git+https://github.com/tholman/console-dot-frog.git"
+"url": "git+https://github.com/JonathanSchndr/console-dot-homer.git"
 },
 "keywords": [
 "web",
-"frogging",
+"homer",
 "logging",
 "console"
 ],
@@ -18,5 +18,5 @@
 "bugs": {
 "url": "https://github.com/tholman/console-dot-frog/issues"
 },
-"homepage": "https://github.com/tholman/console-dot-frog#readme"
+"homepage": "https://github.com/JonathanSchndr/console-dot-homer#readme"
 }

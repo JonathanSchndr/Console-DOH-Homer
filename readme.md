@@ -1,6 +1,6 @@
-###console.frog
+###console.doh
 
-`console.frog` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](http://tholman.com/console-dot-frog).
+`console.doh` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](https://github.com/JonathanSchndr/console-dot-homer).
 
 ### Preview
 
@@ -17,28 +17,32 @@ Boring.
 
 Wow, what a drag that was! No wonder you've become disenchanted with web development.
 
-**NOW!** Here's what your life could be after `console.frog`
+**NOW!** Here's what your life could be after `console.doh`
 
 ```javascript
 // Here is happy you, logging some logs
-console.frog("Amazing!");
+console.doh("Amazing!");
 ```
+
 
 ```
 // And here is your output.
-          _,-.     ------------
-  ,-. ,--'  o ) -(   Amazing!   )
-  \(,' '  ,,-'     ------------
- ,-.\-.__,\\_
- \(`--'    `\ 
+     _____        ------------
+    /     \    -(   Amazing!   )
+  \/\/     |      ------------
+   |  (o)(o)    
+   C   .---_)   
+    | |.___|    
+    |  \__/    
+    /_____\    
+   /_____/ \  
 ```
 
 Wow. That feels good!
 
 ###Usage
-Simply include the `console.frog.js` file into your app!
+Simply include the `console.doh.js` file into your app!
 
 ###License
 Copyright (c) 2016 Tim Holman - http://tholman.com
-
 The MIT License
