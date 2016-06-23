@@ -1,6 +1,6 @@
 ###console.doh
 
-`console.doh` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](https://github.com/JonathanSchndr/console-dot-homer).
+`console.doh` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](https://jonathanschndr.github.io/console-dot-homer/).
 
 ### Preview
 
